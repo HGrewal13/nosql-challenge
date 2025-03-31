@@ -1,8 +1,10 @@
-# nosql-challenge
+# nosql-challenge - UK Food Standards Agency Analysis for the magazine <i>Eat Safe, Love</i>
 
 Description
 -----------
-The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, <i>Eat Safe, Love</i>, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
+
+Perform data cleaning, reading, updating and deleting (CRUD) using MongoDB to analyze the data provided in the establishments.json file. Then provide analysis findings to help <i>Eat Safe, Love</i> gain a better understanding of the listed UK restaurants and their hygiene standards.
 
 Technologies Used
 ------------------
